@@ -1,0 +1,3 @@
+1. system design and basics
+2. abstraction and encapsulation
+3. inheritance and polymorphism
