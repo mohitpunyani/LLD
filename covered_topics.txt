@@ -1,3 +1,4 @@
-1. system design and basics
-2. abstraction and encapsulation
-3. inheritance and polymorphism
+system design and basics
+abstraction and encapsulation
+inheritance and polymorphism
+uml diagram and types , types of association , class and sequence diagram in detail
